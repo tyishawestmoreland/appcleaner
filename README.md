@@ -5,7 +5,7 @@
 ### Uninstall applications completely and remove leftover files.
 
 <p>
-  <img src="appcleaner-logo.jpg" alt="AppCleaner for macOS" width="250">
+  <img src="appcleaner.png" alt="AppCleaner for macOS" width="250">
 </p>
 
 <p>
